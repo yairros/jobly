@@ -1,7 +1,7 @@
 {
   "name": "jobly",
   "version": "1.0.0",
-  "description": "[Jobify](https://mern-jobly-v2.onrender.com/)",
+  "description": "[Jobly](https://mern-jobly-v2.onrender.com/)",
   "main": "index.js",
   "type": "module",
   "scripts": {
